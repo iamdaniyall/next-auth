@@ -1,6 +1,7 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
+# Please note that you need to add the following environment variables to the project .env file: DATABASE_URL, GOOGLE_CLIENT_ID, and GOOGLE_CLIENT_SECRET, as I have removed my credentials for security reasons.
 
 First, run the development server:
 
